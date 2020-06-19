@@ -1,0 +1,28 @@
+/* Global */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', 'Roboto', sans-serif;
+}
+
+
+html, body{
+	height: 100%;;
+	color: lightgrey;
+	background: black;
+}
+
+div.main {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+h1, h2 {
+	font-weight: lighter;
+}
